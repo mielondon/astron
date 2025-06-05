@@ -1,6 +1,6 @@
-# <img src="./assetlib/icon.svg" width="32" height="32"> nv file system
+# yousyn
 
-✅ **for Godot Engine 3.x** | ➡️ [**for Godot Engine 4.x**](https://github.com/naiiveprojects/nv.gd.file_system/tree/4.x)
+✅ **for Godot Engine 3.x** | ➡️ [**for Godot Engine 4.x**](https://github.com/naiiveprojects/yousyn/tree/4.x)
 
 Allow Editor FileSystem to dock at the bottom panel, similar to the layout found in Unreal Engine / Unity, with Menu & Shortcuts to Switch & show/hide the File System.
 
@@ -29,11 +29,11 @@ following its `3.x` branch.
 - Clone this Git repository:
 
 ```bash
-git clone https://github.com/naiiveprojects/nv.gd.file_system/tree/3.x.git
+git clone https://github.com/naiiveprojects/yousyn/tree/3.x.git
 ```
 
 Alternatively, you can
-[download a ZIP archive](https://github.com/naiiveprojects/nv.gd.file_system/archive/refs/heads/3.x.zip)
+[download a ZIP archive](https://github.com/naiiveprojects/yousyn/archive/refs/heads/3.x.zip)
 if you do not have Git installed.
 
 - Move the `addons/` folder to your project folder.
