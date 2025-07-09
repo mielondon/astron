@@ -1,4 +1,4 @@
-# minterpy
+# benchmark
 
 ✅ **for Godot Engine 3.x** | ➡️ [**for Godot Engine 4.x**](https://github.com/naiiveprojects/yousyn/tree/4.x)
 
